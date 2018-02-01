@@ -1,0 +1,5 @@
+<diagram program="umletino" version="14.2"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>50</x><y>110</y><w>210</w><h>70</h></coordinates><panel_attributes>&lt;&lt;interface&gt;&gt;
+/InovacaoSVC/
+--
+consultar Categorias
+enviarIdeia</panel_attributes><additional_attributes></additional_attributes></element></diagram>
